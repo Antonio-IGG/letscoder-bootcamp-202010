@@ -1,4 +1,4 @@
-const callbacks = []
+/* const callbacks = []
 let doing = false
 
 const done = () => {
@@ -15,4 +15,7 @@ module.exports = callback => {
 
         done()
     }
-}
+} */
+
+let chain = Promise.resolve()
+module.exports = callback => chain = chain.then(callback) 

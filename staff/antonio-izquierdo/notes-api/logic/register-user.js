@@ -1,64 +1,28 @@
-const fs = require('fs')
-const { validateEmail, validatePassword, validateCallback, validateFullname } = require('./helpers/validations')
-const { createId } = require('../utils/ids')
-const path = require('path')
+const { validateEmail, validatePassword, validateFullname } = require('./helpers/validations')
 const semaphore = require('./helpers/semaphore')
+const { ConflictError } = require('../errors')
+const { User } = require('../models')
 
-module.exports = (fullname, email, password, callback) => {
+module.exports = function (fullname, email, password) {
     validateFullname(fullname)
     validateEmail(email)
     validatePassword(password)
-    validateCallback(callback)
 
-    const usersPath = path.join(__dirname, '../data/users')
+    return semaphore(() =>
+        User
+            .findOne({ email })
+            .then(user => {
+                if (user) throw new ConflictError(`user with e-mail ${email} already registered`)
 
-    semaphore(done => {
-        fs.readdir(usersPath, (error, files) => {
-            if (error) {
-                done()
+                // user = new User({ fullname, email, password })
+                // return user.save()
 
-                return callback(error)
-            };
+                //user = { fullname, email, password }
+                //return new User(user).save()
+                //return User.create(user)
 
-            (function check(files, index = 0) {
-                if (index < files.length) {
-                    const file = files[index]
-
-                    fs.readFile(path.join(usersPath, file), 'utf8', (error, json) => {
-                        if (error) {
-                            done()
-
-                            return callback(error)
-                        }
-
-                        const { email: _email } = JSON.parse(json)
-
-                        if (email === _email) {
-                            done()
-
-                            callback(new Error(`e-mail ${email} already registered`))
-                        } else check(files, ++index)
-                    })
-                } else {
-                    const id = createId()
-
-                    const user = { id, fullname, email, password }
-
-                    const json = JSON.stringify(user)
-
-                    fs.writeFile(path.join(usersPath, `${id}.json`), json, error => {
-                        if (error) {
-                            done()
-
-                            return callback(error)
-                        }
-
-                        done()
-
-                        callback(null)
-                    })
-                }
-            })(files)
-        })
-    })
-}
+                return User.create({ fullname, email, password })
+            })
+            .then(() => {})
+    )
+} 

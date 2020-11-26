@@ -28,12 +28,32 @@ module.exports = {
 
         if (!id.trim().length) throw new Error('id is empty or blank')
 
-        if (id.length !== 31) throw new Error('id length is not 31')
+        if (id.length !== 24) throw new Error('id length is not 24')
     },
 
     validateToken(token) {
         if(typeof token !== 'string') throw new TypeError(token + 'is not a token')
 
         if(!token.trim().length) throw new Error('token is empty or blank')
+    },
+
+    validateText(text){
+
+        if (typeof text !== 'string') throw new TypeError(text + ' is not a text')
+
+        if (!text.trim().length) throw new Error('text is empty or blank')
+
+    }, 
+
+    validateTags(tags){
+        if(!(tags instanceof Array)) throw new TypeError(`${tags} is not an array`)
+        
+        if(!(tags.every(tag => typeof tag === 'string'))) throw new Error('Tags can only contain strings')
+
+    },
+
+    validateVisibility(visibility){
+      if(!(visibility === 'public' || visibility === 'private')) throw new Error('Visibility can only be public or private') 
+
     }
 }

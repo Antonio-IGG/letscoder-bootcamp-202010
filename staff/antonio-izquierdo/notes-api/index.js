@@ -1,25 +1,45 @@
 require('dotenv').config()
 
 const express = require('express')
+const mongoose = require('mongoose')
 const logger = require('./utils/logger')
+const { cors } = require('./middlewares')
 
-const { env: { PORT }, argv: [, , port = PORT || 8080] } = process
+const { env: { PORT, MONGODB_URL }, argv: [, , port = PORT || 8080] } = process
 
-const app = express()
+logger.log('starting server', 'info')
 
-const { api } = require('./routes')
+mongoose.connect(MONGODB_URL, { useUnifiedTopology: true, useNewUrlParser: true })
+    .then(() => {
+        const app = express()
 
-app.options('*', (req, res) => {
-    res.setHeader('Access-Control-Allow-Origin', '*')
-    res.setHeader('Access-Control-Allow-Headers', '*')
+        app.use(cors)
 
-    res.status(204).send()
+        const { api } = require('./routes')
+
+        app.use(api)
+
+        app.get('/*', (req, res) => res.status(404).send('Not found :('))
+
+        app.listen(port, () => logger.log(`server running on port ${port}`))
+    })
+    .catch(error =>
+        logger.log(error, 'error', error => {
+            if (error) console.error(error)
+
+            shutDown()
+        })
+    )
+
+const shutDown = () => logger.log(`stopping server`, 'info', error => {
+    if (error) console.error(error)
+
+    if (mongoose.connection.readyState === 1)
+        return mongoose.disconnect()
+            .catch(console.error)
+            .then(() => process.exit(0))
+
+    process.exit(0)
 })
 
-app.use(api)
-
-app.get('/*', (req, res) => res.status(404).send('Not found :('))
-
-app.listen(port, () => logger.log(`server running on port ${port}`))
-
-process.on('SIGINT', () => logger.log(`stopping server`, 'info', () => process.exit(0)))
+process.on('SIGINT', shutDown) 

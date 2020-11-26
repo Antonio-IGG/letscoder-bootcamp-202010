@@ -80,3 +80,472 @@ info 2020-11-19T16:20:35.441Z - server running on port 4000
 info 2020-11-19T16:31:45.627Z - stopping server
 info 2020-11-19T16:31:53.329Z - server running on port 4000
 info 2020-11-19T16:32:31.894Z - stopping server
+info 2020-11-19T17:26:22.317Z - server running on port 4000
+error 2020-11-19T17:26:48.215Z - TypeError: undefined is not an e-mail
+info 2020-11-19T17:56:33.359Z - stopping server
+info 2020-11-20T10:30:17.383Z - server running on port 4000
+error 2020-11-20T13:40:09.512Z - Error: wrong credentials
+info 2020-11-20T13:40:40.787Z - stopping server
+info 2020-11-21T15:24:15.896Z - starting server
+info 2020-11-21T15:24:15.946Z - server running on port 4000
+error 2020-11-21T15:25:12.346Z - Error: wrong credentials
+info 2020-11-21T15:31:03.119Z - stopping server
+info 2020-11-21T15:32:05.398Z - starting server
+info 2020-11-21T15:32:05.444Z - server running on port 4000
+error 2020-11-21T15:32:24.244Z - Error: id length is not 31
+info 2020-11-21T15:37:35.064Z - stopping server
+info 2020-11-21T15:37:37.431Z - starting server
+info 2020-11-21T15:37:37.474Z - server running on port 4000
+error 2020-11-21T15:38:10.769Z - Error: invalid e-mail
+error 2020-11-21T15:43:43.565Z - Error: invalid e-mail
+info 2020-11-21T16:10:59.152Z - stopping server
+info 2020-11-21T16:11:02.270Z - starting server
+info 2020-11-21T16:11:02.313Z - server running on port 4000
+info 2020-11-21T16:23:36.472Z - starting server
+info 2020-11-21T16:23:36.525Z - server running on port 4000
+info 2020-11-21T16:23:46.872Z - stopping server
+info 2020-11-21T16:24:06.562Z - starting server
+info 2020-11-21T16:24:06.623Z - server running on port 4000
+info 2020-11-21T16:30:13.723Z - starting server
+info 2020-11-21T16:30:13.768Z - server running on port 4000
+info 2020-11-21T16:30:26.774Z - stopping server
+info 2020-11-21T16:30:35.335Z - starting server
+info 2020-11-21T16:30:35.384Z - server running on port 4000
+info 2020-11-21T16:31:37.523Z - starting server
+info 2020-11-21T16:31:37.568Z - server running on port 4000
+info 2020-11-21T17:02:25.662Z - starting server
+info 2020-11-21T17:02:25.704Z - server running on port 4000
+info 2020-11-21T17:35:11.377Z - stopping server
+info 2020-11-21T17:35:29.125Z - starting server
+info 2020-11-21T17:35:29.168Z - server running on port 4000
+info 2020-11-21T17:37:34.359Z - stopping server
+info 2020-11-21T17:37:37.364Z - starting server
+info 2020-11-21T17:37:37.405Z - server running on port 4000
+info 2020-11-21T17:39:05.668Z - stopping server
+info 2020-11-21T17:39:08.466Z - starting server
+info 2020-11-21T17:39:08.506Z - server running on port 4000
+error 2020-11-21T18:15:09.583Z - Error: id length is not 31
+error 2020-11-21T18:15:16.362Z - Error: id length is not 31
+error 2020-11-21T18:15:55.280Z - Error: id length is not 31
+error 2020-11-21T18:16:06.089Z - Error: id length is not 31
+error 2020-11-21T18:16:12.982Z - Error: id length is not 31
+error 2020-11-21T18:17:17.663Z - Error: id length is not 31
+info 2020-11-21T18:17:27.438Z - stopping server
+info 2020-11-21T18:17:29.502Z - starting server
+info 2020-11-21T18:17:29.545Z - server running on port 4000
+info 2020-11-21T19:09:49.261Z - stopping server
+info 2020-11-22T11:42:22.873Z - starting server
+info 2020-11-22T11:42:22.928Z - server running on port 4000
+info 2020-11-22T11:47:20.851Z - stopping server
+info 2020-11-22T11:52:24.941Z - starting server
+info 2020-11-22T11:52:24.984Z - server running on port 4000
+info 2020-11-22T12:17:04.839Z - stopping server
+info 2020-11-22T12:19:24.125Z - starting server
+info 2020-11-22T12:19:24.169Z - server running on port 4000
+info 2020-11-22T14:55:59.103Z - stopping server
+info 2020-11-23T11:18:38.471Z - starting server
+info 2020-11-23T11:18:38.517Z - server running on port 4000
+error 2020-11-23T11:19:07.963Z - ReferenceError: userId is not defined
+error 2020-11-23T11:20:39.833Z - ReferenceError: userId is not defined
+error 2020-11-23T11:20:51.895Z - ReferenceError: userId is not defined
+error 2020-11-23T11:21:27.622Z - ReferenceError: userId is not defined
+info 2020-11-23T11:21:34.078Z - stopping server
+info 2020-11-23T11:21:37.421Z - starting server
+info 2020-11-23T11:21:37.475Z - server running on port 4000
+info 2020-11-23T11:27:07.972Z - stopping server
+info 2020-11-23T11:27:11.244Z - starting server
+info 2020-11-23T11:27:11.317Z - server running on port 4000
+info 2020-11-23T11:37:10.203Z - stopping server
+info 2020-11-23T11:37:13.215Z - starting server
+info 2020-11-23T11:37:13.262Z - server running on port 4000
+info 2020-11-23T14:17:58.698Z - stopping server
+info 2020-11-23T14:18:02.129Z - starting server
+info 2020-11-23T14:18:02.182Z - server running on port 4000
+info 2020-11-23T14:23:15.669Z - stopping server
+info 2020-11-23T14:23:18.597Z - starting server
+info 2020-11-23T14:23:18.660Z - server running on port 4000
+info 2020-11-23T14:28:16.550Z - stopping server
+info 2020-11-23T14:28:18.957Z - starting server
+info 2020-11-23T14:28:19.063Z - server running on port 4000
+info 2020-11-23T14:30:43.818Z - stopping server
+info 2020-11-23T14:30:46.427Z - starting server
+info 2020-11-23T14:30:46.489Z - server running on port 4000
+info 2020-11-23T14:30:53.933Z - stopping server
+info 2020-11-23T14:31:03.687Z - starting server
+info 2020-11-23T14:31:03.734Z - server running on port 4000
+info 2020-11-23T14:31:27.831Z - stopping server
+info 2020-11-25T12:37:34.423Z - starting server
+info 2020-11-25T12:37:34.489Z - server running on port 4000
+error 2020-11-25T12:38:14.409Z - Error: wrong credentials
+error 2020-11-25T12:41:59.289Z - Error: user with e-mail cere@za.com already registered
+info 2020-11-25T12:52:25.008Z - stopping server
+info 2020-11-25T12:53:38.116Z - starting server
+info 2020-11-25T12:53:38.161Z - server running on port 4000
+info 2020-11-25T12:54:28.438Z - stopping server
+info 2020-11-25T12:54:30.741Z - starting server
+info 2020-11-25T12:54:30.784Z - server running on port 4000
+info 2020-11-25T12:56:39.680Z - stopping server
+info 2020-11-25T12:56:42.171Z - starting server
+info 2020-11-25T12:56:42.218Z - server running on port 4000
+info 2020-11-25T13:06:00.793Z - stopping server
+info 2020-11-25T13:06:03.289Z - starting server
+info 2020-11-25T13:06:03.340Z - server running on port 4000
+info 2020-11-25T13:07:28.625Z - stopping server
+info 2020-11-26T14:46:08.899Z - starting server instanceof Error ? message.stack : message
+info 2020-11-26T14:46:08.996Z - server running on port 4000 instanceof Error ? message.stack : message
+info 2020-11-26T14:50:40.743Z - stopping server instanceof Error ? message.stack : message
+info 2020-11-26T14:50:50.432Z - starting server
+info 2020-11-26T14:50:50.573Z - server running on port 4000
+info 2020-11-26T14:52:13.932Z - stopping server
+info 2020-11-26T14:52:21.687Z - starting server
+info 2020-11-26T14:52:21.774Z - server running on port 4000
+error 2020-11-26T14:53:02.049Z - AuthError: wrong credentials
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\authenticate-user.js:20:28
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+info 2020-11-26T14:54:24.516Z - stopping server
+info 2020-11-26T14:54:28.454Z - starting server
+info 2020-11-26T14:54:28.534Z - server running on port 4000
+info 2020-11-26T15:10:49.889Z - stopping server
+info 2020-11-26T15:11:02.287Z - starting server
+info 2020-11-26T15:11:51.935Z - starting server
+info 2020-11-26T15:11:52.014Z - server running on port 4000
+info 2020-11-26T15:12:12.654Z - stopping server
+info 2020-11-26T15:12:22.994Z - starting server
+info 2020-11-26T15:12:23.083Z - server running on port 4000
+error 2020-11-26T15:13:18.130Z - AuthError: wrong credentials
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\authenticate-user.js:20:28
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+error 2020-11-26T15:13:57.368Z - AuthError: wrong credentials
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\authenticate-user.js:20:28
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+error 2020-11-26T15:14:16.232Z - AuthError: wrong credentials
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\authenticate-user.js:20:28
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+info 2020-11-26T15:18:15.300Z - stopping server
+info 2020-11-26T15:18:24.075Z - starting server
+info 2020-11-26T15:18:24.159Z - server running on port 4000
+error 2020-11-26T15:19:46.321Z - AuthError: wrong credentials
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\authenticate-user.js:20:28
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+info 2020-11-26T15:20:28.122Z - stopping server
+info 2020-11-26T15:59:06.218Z - starting server
+info 2020-11-26T15:59:06.297Z - server running on port 4000
+error 2020-11-26T15:59:37.639Z - ConflictError: user with e-mail cere@za.com already registered
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\register-user.js:19:33
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+info 2020-11-26T16:00:08.974Z - stopping server
+info 2020-11-26T16:55:40.427Z - starting server
+info 2020-11-26T16:55:40.529Z - server running on port 4000
+info 2020-11-26T19:03:20.632Z - stopping server
+info 2020-11-26T20:30:38.239Z - starting server
+error 2020-11-26T20:30:38.346Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T20:30:38.355Z - stopping server
+info 2020-11-26T20:32:11.679Z - starting server
+error 2020-11-26T20:32:11.780Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T20:32:11.788Z - stopping server
+info 2020-11-26T20:35:38.761Z - starting server
+error 2020-11-26T20:35:38.861Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T20:35:38.869Z - stopping server
+info 2020-11-26T20:49:52.733Z - starting server
+error 2020-11-26T20:49:52.887Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T20:49:52.899Z - stopping server
+info 2020-11-26T21:04:19.335Z - starting server
+error 2020-11-26T21:04:19.473Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:04:19.500Z - stopping server
+info 2020-11-26T21:12:36.051Z - starting server
+error 2020-11-26T21:12:36.146Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:12:36.159Z - stopping server
+info 2020-11-26T21:13:55.231Z - starting server
+error 2020-11-26T21:13:55.335Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:13:55.344Z - stopping server
+info 2020-11-26T21:15:57.689Z - starting server
+error 2020-11-26T21:15:57.786Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:15:57.794Z - stopping server
+info 2020-11-26T21:21:01.508Z - starting server
+error 2020-11-26T21:21:01.598Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:21:01.609Z - stopping server
+info 2020-11-26T21:22:26.033Z - starting server
+error 2020-11-26T21:22:26.125Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:22:26.133Z - stopping server
+info 2020-11-26T21:27:35.240Z - starting server
+error 2020-11-26T21:27:35.340Z - Error: Cannot find module './array-polyfills'
+Require stack:
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\index.js
+- C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\index.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:831:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:687:27)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\randoms.js:1:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\utils\index.js:4:14)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+info 2020-11-26T21:27:35.348Z - stopping server
+info 2020-11-26T21:49:03.306Z - starting server
+info 2020-11-26T21:49:03.412Z - server running on port 4000
+error 2020-11-26T21:49:49.280Z - ValidationError: User validation failed: password: Path `password` (`123`) is shorter than the minimum allowed length (8).
+    at model.Document.invalidate (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\mongoose\lib\document.js:2620:32)
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\mongoose\lib\document.js:2440:17
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\mongoose\lib\schematype.js:1225:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+error 2020-11-26T21:51:18.916Z - ValidationError: User validation failed: password: Path `password` (`123`) is shorter than the minimum allowed length (8).
+    at model.Document.invalidate (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\mongoose\lib\document.js:2620:32)
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\mongoose\lib\document.js:2440:17
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\mongoose\lib\schematype.js:1225:9
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+info 2020-11-26T21:51:31.934Z - stopping server
+info 2020-11-26T21:51:47.674Z - starting server
+info 2020-11-26T21:51:47.786Z - server running on port 4000
+error 2020-11-26T21:52:28.249Z - TypeError: Cannot read property 'db' of undefined
+    at Object.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\logic\authenticate-user.js:13:27)
+    at module.exports (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\handlers\handle-authenticate-user.js:10:9)
+    at C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\routes\api\helpers\with-error-handling.js:6:9
+    at Layer.handle [as handle_request] (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\node_modules\express\lib\router\route.js:137:13)
+    at IncomingMessage.<anonymous> (C:\Users\valet\bootcamp\collab\letscoder-bootcamp-202010\staff\antonio-izquierdo\notes-api\middlewares\json-body-parser.js:21:13)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1223:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+info 2020-11-26T22:08:05.256Z - stopping server
