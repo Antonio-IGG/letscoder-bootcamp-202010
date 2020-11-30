@@ -1,22 +1,14 @@
 const { validateId } = require('./helpers/validations')
 const context = require('./context')
-const { ObjectId } = require('mongodb')
 const { NotFoundError } = require('../errors')
-
-const { env: { DB_NAME } } = process
+const { User } = require('../models')
 
 module.exports = function (userId) {
     validateId(userId)
 
-    const { connection } = this
-
-    const db = connection.db(DB_NAME)
-
-    const users = db.collection('users')
-
-    const _id = ObjectId(userId)
-
-    return users.findOne({ _id })
+    return User
+    
+    .findOne({ id })
         .then(user => {
             if (!user) throw new NotFoundError(`user with id ${userId} not found`)
 
@@ -24,13 +16,11 @@ module.exports = function (userId) {
 
             //user = { id: _id.toString(), fullname, email } // sanitise  
 
-            const { _id } = user
-
             user.id = _id.toString()
 
             delete user._id
             delete user.password
 
-            return user
+            return user.fullname
         })
 }.bind(context) 

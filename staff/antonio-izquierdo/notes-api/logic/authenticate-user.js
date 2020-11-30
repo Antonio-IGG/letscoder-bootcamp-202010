@@ -2,12 +2,9 @@ const { validateEmail, validatePassword } = require('./helpers/validations')
 const { User } = require('../models')
 const { AuthError } = require('../errors')
 
-
 module.exports = function (email, password) {
     validateEmail(email)
     validatePassword(password)
-
-
 
     return User
 
@@ -17,8 +14,6 @@ module.exports = function (email, password) {
 
         const { _id: id } = user
 
-        return User({id})
-
-
+        return id
     })
 }
